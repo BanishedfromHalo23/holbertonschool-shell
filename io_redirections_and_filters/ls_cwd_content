@@ -1,0 +1,16 @@
+total 44
+drwxr-xr-x 1 williamls1031 williamls1031 338 Feb 12 09:24 .
+drwxr-xr-x 1 williamls1031 williamls1031 114 Feb 11 09:35 ..
+-rwxr-xr-x 1 williamls1031 williamls1031  32 Feb 11 09:55 0-hello_world
+-rwxr-xr-x 1 williamls1031 williamls1031  31 Feb 11 10:35 1-confused_smiley
+-rwxr-xr-x 1 williamls1031 williamls1031  28 Feb 11 10:45 2-hellofile
+-rwxr-xr-x 1 williamls1031 williamls1031  39 Feb 11 10:55 3-twofiles
+-rwxr-xr-x 1 williamls1031 williamls1031  38 Feb 11 11:01 4-lastlines
+-rwxr-xr-x 1 williamls1031 williamls1031  38 Feb 11 11:03 5-firstlines
+-rwxr-xr-x 1 williamls1031 williamls1031  40 Feb 11 13:42 6-third_line
+-rwxr-xr-x 1 williamls1031 williamls1031  86 Feb 12 09:20 7-file
+-rwxr-xr-x 1 williamls1031 williamls1031  36 Feb 12 09:24 8-cwd_state
+-rw-r--r-- 1 williamls1031 williamls1031  12 Feb 12 09:21 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 williamls1031 williamls1031   0 Feb 11 13:38 iacta
+-rw-r--r-- 1 williamls1031 williamls1031   0 Feb 12 09:24 ls_cwd_content
+-rw-r--r-- 1 williamls1031 williamls1031  64 Feb 11 09:36 README.md
