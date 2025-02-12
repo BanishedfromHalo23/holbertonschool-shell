@@ -1,2 +1,2 @@
 #!/bin/bash
-tail cp ls -1 /iacta/
+tail  ls -1 cp /iacta/
