@@ -1,2 +1,2 @@
 #!/bin/bash
-fin . -type f -print | we -l 
+fin . -type f -print | wc -l 
